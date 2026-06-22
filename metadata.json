@@ -1,0 +1,8 @@
+{
+  "name": "Sri Ram Traders",
+  "description": "Premium cement dealership and supplier for construction projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
